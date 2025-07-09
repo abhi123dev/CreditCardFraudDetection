@@ -10,11 +10,12 @@ This project involves analyzing two credit card datasets to:
 ## 📁 Datasets Used
 
 1. **Credit Card Fraud Dataset**
+   - Due to large file i have added link for the [dataset](https://drive.google.com/file/d/1_oyoeb5ca4HUVMbTRsEdQbXR4_Yc2JH8/view)
    - Contains transactions over two days in 2013.
    - 492 frauds out of 284,807 transactions (highly imbalanced).
    - Features: `Time`, `V1` to `V28` (PCA transformed), `Amount`, `Class` (fraud=1).
 
-2. **Credit Card Customer Dataset**
+3. **Credit Card Customer Dataset**
    - Contains information like:
      - `Avg_Credit_Limit`
      - `Total_Credit_Cards`
